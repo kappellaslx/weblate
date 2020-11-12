@@ -6,4 +6,8 @@
     <string name="zero">0</string>
     <string name="yes">Sim</string>
     <string name="app_name">Global Shares</string>
+    <string name="good_afternoon">Boa tarde</string>
+    <string name="good_evening">Boa noite</string>
+    <string name="good_night">Boa noite</string>
+    <string name="good_morning">Bom dia!</string>
 </resources>
