@@ -19,4 +19,6 @@
     <string name="login_enter">Sign in</string>
     <string name="login_login_with_password">Sign in with password</string>
     <string name="login_login_with_fingerprint">Sign in with fingerprint</string>
+    
+    <string name="test">test</string>
 </resources>
