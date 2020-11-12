@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+    <!-- General -->
+    <string name="app_name">Global Shares</string>
+    <string name="conversion_value">%1$s = %2$s</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="zero">0</string>
+    <!-- Login -->
+    <string name="good_morning">Good morning</string>
+    <string name="good_afternoon">Good afternoon</string>
+    <string name="good_evening">Good evening</string>
+    <string name="good_night">Good night</string>
+    <string name="login_welcome">Welcome</string>
+    <string name="login_subtext">Employee ownership simplified.</string>
+    <string name="login_hello_username">%1$s, %2$s</string>
+    <string name="login_need_help_signing_in_button">Need help signing in?</string>
+    <string name="login_enter">Sign in</string>
+    <string name="login_login_with_password">Sign in with password</string>
+    <string name="login_login_with_fingerprint">Sign in with fingerprint</string>
+</resources>
