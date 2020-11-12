@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="conversion_value">%1$s = %2$s</string>
+    <string name="ok">OK</string>
+    <string name="no">Nao</string>
+    <string name="zero">0</string>
+    <string name="yes">Sim</string>
+    <string name="app_name">Global Shares</string>
+</resources>
