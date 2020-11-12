@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <!-- General -->
-    <string name="app_name">Equinity</string>
+    <string name="app_name">Global Shares</string>
     <string name="conversion_value">%1$s = %2$s</string>
     <string name="ok">OK</string>
     <string name="yes">Yes</string>
